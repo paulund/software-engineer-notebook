@@ -122,3 +122,7 @@ any other languages then you should include them.
 #### References
 
 You don't need to include references on your CV. You can just say that references are available on request.
+
+# Resources
+
+- [Software Engineer CV Example](https://standardresume.co/examples/software-engineer)
