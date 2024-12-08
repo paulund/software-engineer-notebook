@@ -1,5 +1,3 @@
-# Software Engineer Notebook
-
 ## Overview
 
 This project is a comprehensive notebook for software engineers, covering various aspects of the profession, from
