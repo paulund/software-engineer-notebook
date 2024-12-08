@@ -16,6 +16,7 @@ If you're using Laravel you can easily use the Log facade to output the logs to 
 output the logs to a file or a service like AWS CloudWatch.
 
 Here is an example of how you can use the Log facade in Laravel:
+
 ```php
 Log::debug('This is a debug message');
 Log::info('This is an informational message');

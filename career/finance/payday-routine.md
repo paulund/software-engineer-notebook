@@ -123,7 +123,6 @@ Inflation also has a part to play with mortgage if inflation is high then over t
 to pay back in real terms. £100,000 now is worth a lot less in 30 years. Over time inflation will go up by the money you owe does now go up with inflation, let inflation
 do this work for you by reducing the real term money you owe.
 
-
 ## Summary
 
 - Pay for your essentials

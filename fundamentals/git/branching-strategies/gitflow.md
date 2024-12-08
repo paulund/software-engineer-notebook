@@ -26,6 +26,7 @@ requires a lot of discipline to follow the process correctly.
 Any code in the master branch is always deployable. This is a key part of the Gitflow strategy.
 
 ## GitLab Flow
+
 This strategy is similar to Gitflow but it uses environment branches such as master, pre production, production.
 
 Deployment can be done from the master branch to the pre production branch and then to the production branch.
@@ -35,6 +36,7 @@ environments that are being used. But it isn't very structured and can lead to s
 track of the where to base the pull request from.
 
 ## GitHub Flow
+
 The Github flow method is a simplified version of Gitflow. It is a lightweight, branch-based workflow that supports teams
 and projects where deployments are made regularly. It is a great strategy for small teams working on small projects.
 

@@ -5,7 +5,7 @@
 YAGNI stands for "You Aren't Gonna Need It." It is a principle in software development that suggests you should only
 implement features when you actually need them, rather than trying to anticipate future requirements.
 
-### Key Points of YAGNI:
+### Key Points of YAGNI
 
 - **Avoid Over-Engineering:** Don't add functionality or features until they are needed.
 - **Focus on Current Requirements:** Implement only what is necessary to meet the current specifications.

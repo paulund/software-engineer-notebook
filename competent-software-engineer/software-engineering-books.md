@@ -3,6 +3,7 @@
 Here is a list of books that I've read or plan to read. I've split them into categories to make it easier to find what you're looking for.
 
 ## Software
+
 - [The Pragmatic Programmer](https://www.amazon.co.uk/Pragmatic-Programmer-Andrew-Hunt/dp/020161622X)
 - [Clean Code](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Clean Architecture](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
@@ -15,10 +16,12 @@ Here is a list of books that I've read or plan to read. I've split them into cat
 - [Working Effectively with Legacy Code](https://www.amazon.co.uk/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
 ## Leadership
+
 - [The Manager's Path](https://www.amazon.co.uk/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 - [Leaders Eat Last](https://www.amazon.co.uk/Leaders-Eat-Last-Simon-Sinek/dp/0670923168)
 
 ## Personal Development
+
 - [Atomic Habits](https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834)
 - [The 7 Habits of Highly Effective People](https://www.amazon.co.uk/Habits-Highly-Effective-People-Powerful/dp/0743269519)
 - [The 4-Hour Work Week](https://www.amazon.co.uk/4-Hour-Work-Week-Escape-Anywhere/dp/0091929113)
@@ -47,6 +50,7 @@ Here is a list of books that I've read or plan to read. I've split them into cat
 - [Compound Effect](https://www.amazon.co.uk/Compound-Effect-Darren-Hardy/dp/159315724X)
 
 ## Finances
+
 - [Rich Dad Poor Dad](https://www.amazon.co.uk/Rich-Dad-Poor-Teach-Middle/dp/1612680194)
 - [Bitcoin Standard](https://www.amazon.co.uk/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861)
 - [The Millionaire Next Door](https://www.amazon.co.uk/Millionaire-Next-Door-Thomas-Stanley/dp/0671015206)
@@ -54,4 +58,5 @@ Here is a list of books that I've read or plan to read. I've split them into cat
 - [Richest Man In Babylon](https://www.amazon.co.uk/Richest-Babylon-Complete-Original-Signature/dp/B0CM47HF45)
 
 ## History
+
 - [Sapiens](https://www.amazon.co.uk/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085)
