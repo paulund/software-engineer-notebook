@@ -79,6 +79,7 @@ There are many factors that go into deciding which is the best option for you, t
 areas and compare the 2 options.
 
 ---
+
 ## Job Security
 
 ### Permanent
@@ -101,6 +102,7 @@ security are different things, as some people argue that as a contractor you’r
 company for your money and therefore you’re more secure in your career.
 
 ---
+
 ## Income
 
 ### Permanent
@@ -223,6 +225,7 @@ Therefore if you can live on £4,189.17 a month, contracting can be a better opt
 you'd need to find a permanent position on more than £70,000 a year.
 
 ---
+
 ## Time Off
 
 ### Permanent
@@ -262,6 +265,7 @@ serious injury or sickness you could be out of work and money for an extended pe
 With holidays, bank holidays and sick pay not paid to contractors being a permanent employee wins this one.
 
 ---
+
 ## Pension
 
 ### Permanent
@@ -291,6 +295,7 @@ percentage is contributed by your company.
 Permanent staff have this easier as it’s done as part of employment but as a contractor you have more control.
 
 ---
+
 ## Bonus
 
 ### Permanent
@@ -328,6 +333,7 @@ The winner in this category is going to be permanent, but it does come with some
 to be considered.
 
 ---
+
 ## Workload
 
 ### Permanent
@@ -354,6 +360,7 @@ right option for you. If you prefer to learn new things and try new things and w
 then contracting will win.
 
 ---
+
 ## Career Progression
 
 ### Permanent
@@ -401,6 +408,7 @@ If your company has a defined career path that works if your career objectives t
 employee. If there is no career path or it doesn’t match your career objectives then you’ll be better as a contractor.
 
 ---
+
 ## Work Environment
 
 ### Permanent
@@ -447,6 +455,7 @@ This gives you the flexibility to work around your life and not have to work aro
 The freedom to work where and when you want means that being a contractor wins this round.
 
 ---
+
 ## Training
 
 ### Permanent
@@ -482,6 +491,7 @@ I would give this to permanent but this is so dependent on the company you work 
 stand with training during your interview.
 
 ---
+
 ## Networking
 
 ### Permanent
@@ -501,6 +511,7 @@ of the opportunity to work with more people. If you work for a company as a perm
 companies you may be able to achieve this. But generally you’re grow your network larger when being a contractor.
 
 ---
+
 ## Job Market
 
 ### Permanent
@@ -549,6 +560,7 @@ company your salary may not stay in line with market rates. Being a contractor i
 keeping your pay inline with the market.
 
 ---
+
 ## Applying For Jobs
 
 ### Permanent
@@ -567,6 +579,7 @@ interviewing for a job every couple of months.
 Being a permanent employee wins this round as you won’t have to apply for new roles as often as being a contractor.
 
 ---
+
 ## Admin
 
 ### Permanent
@@ -588,6 +601,7 @@ This can be a lot of work and you’ll need to make sure you’re on top of all 
 There is more work to be done as a contractor, being a permanent employee is less admin and wins this category.
 
 ---
+
 ## Mortgages
 
 ### Permanent
@@ -608,6 +622,7 @@ years and provide a copy of your latest contract to prove you can afford the mor
 Being a permanent employee makes it easier to get credit and therefore it will win this category.
 
 ---
+
 ## Comparison Summary
 
 |                     | Permanent | Contractor |
@@ -643,7 +658,9 @@ There as many pros and cons in both columns you need to review what’s importan
 company you work for meets those requirements to help decide if you should be a contractor vs a permanent employee.
 
 ---
+
 ## When To Make The Switch To Contracting
+
 When you start your career as a software engineer you’ll be looking for a permanent position. This is because you’ll be
 looking for a company that can provide you with the training and support you need to become a better developer.
 
@@ -670,6 +687,7 @@ You’ll also need to make sure you have enough money to pay for any training yo
 for any equipment you need to buy in order to do your job.
 
 ### Understanding of Contracting
+
 There is more admin to being a contractor to a permanent employee. You’ll need to make sure you understand what is
 required of you as a contractor.
 
@@ -679,6 +697,7 @@ legislation like IR35 in the UK.
 You’ll also need to make sure you understand how to find contracts and how to negotiate your rate.
 
 ### Timing
+
 If you're planning to make significant financial commitments like getting a mortgage, it might be better to wait as
 permanent employees often find it easier to secure such financial services.
 
@@ -688,4 +707,4 @@ during these times of the year. Therefore you may find it harder to find a contr
 
 ## Further Reading
 
-- https://open.spotify.com/episode/6Z2mr7mlwlUdLDEek0055z?si=eed9cd8990564c8f
+- <https://open.spotify.com/episode/6Z2mr7mlwlUdLDEek0055z?si=eed9cd8990564c8f>

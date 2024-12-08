@@ -9,6 +9,7 @@ share knowledge with them. This guide will help you understand the best practice
 ## 1. Understand the Purpose of the Change
 
 Before you start reviewing the code, it's important to understand the purpose of the change.
+
 - What problem is the change trying to solve?
 - What is the expected outcome of the change?
 - What are the success criteria for the change?

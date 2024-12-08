@@ -26,7 +26,7 @@ should include all the work that you have done and any expenses that you have in
 - Remove any files for the company from your computer
 - Remove ssh keys from your computer
 - Clean up your development environment
-    - [Clean Up Docker Containers](https://paulund.co.uk/clean-up-docker)
+  - [Clean Up Docker Containers](https://paulund.co.uk/clean-up-docker)
 
 ## Update Your Portfolio
 
