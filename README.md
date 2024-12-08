@@ -10,81 +10,81 @@ practical tips to help software engineers navigate their careers effectively.
 
 - Career
   - Contracting
-    - [End Of A Contract](career/contracting/end-of-a-contract.md)
+    - [End Of A Contract](https://github.com/paulund/software-engineer-notebook/blob/main/career/contracting/end-of-a-contract.md)
   - Finance
-    - [Payday Routine](career/finance/payday-routine.md)
+    - [Payday Routine](https://github.com/paulund/software-engineer-notebook/blob/main/career/finance/payday-routine.md)
   - Finding Work
-    - [CV](career/finding-work/cv.md)
-    - [Freelancing](career/finding-work/freelancing.md)
-    - [Github Profile](career/finding-work/github-profile.md)
-    - [Linkedin Profile](career/finding-work/linkedin-profile.md)
-    - [Networking](career/finding-work/networking.md)
-    - [Portfolio](career/finding-work/portfolio.md)
-    - [Permanent Contracting Freelancing](career/finding-work/permanent-contracting-freelancing.md)
-    - [Salary Expectations](career/finding-work/salary-expectations.md)
-  - [Burnout](career/burnout.md)
-  - [Company Size](career/company-size.md)
-  - [Brag Document](career/create-a-brag-document.md)
+    - [CV](https://github.com/paulund/software-engineer-notebook/blob/main/career/finding-work/cv.md)
+    - [Freelancing](https://github.com/paulund/software-engineer-notebook/blob/main/career/finding-work/freelancing.md)
+    - [Github Profile](https://github.com/paulund/software-engineer-notebook/blob/main/career/finding-work/github-profile.md)
+    - [Linkedin Profile](https://github.com/paulund/software-engineer-notebook/blob/main/career/finding-work/linkedin-profile.md)
+    - [Networking](https://github.com/paulund/software-engineer-notebook/blob/main/career/finding-work/networking.md)
+    - [Portfolio](https://github.com/paulund/software-engineer-notebook/blob/main/career/finding-work/portfolio.md)
+    - [Permanent Contracting Freelancing](https://github.com/paulund/software-engineer-notebook/blob/main/career/finding-work/permanent-contracting-freelancing.md)
+    - [Salary Expectations](https://github.com/paulund/software-engineer-notebook/blob/main/career/finding-work/salary-expectations.md)
+  - [Burnout](https://github.com/paulund/software-engineer-notebook/blob/main/career/burnout.md)
+  - [Company Size](https://github.com/paulund/software-engineer-notebook/blob/main/career/company-size.md)
+  - [Brag Document](https://github.com/paulund/software-engineer-notebook/blob/main/career/create-a-brag-document.md)
 - Coding Standards
 - Competent Software Engineer
   - Agile
   - Notes
   - Productivity
-    - [Staying Productive](competent-software-engineer/productivity/staying-productive.md)
+    - [Staying Productive](https://github.com/paulund/software-engineer-notebook/blob/main/competent-software-engineer/productivity/staying-productive.md)
   - Projects
   - Stakeholder Management
   - Teamwork
   - Working Environment
-    - [Local Environment](competent-software-engineer/working-environment/local-environment.md)
-    - [Remote Working](competent-software-engineer/working-environment/remote-working.md)
-  - [Business Tools](competent-software-engineer/business-tools.md)
-  - [Software Engineering Books](competent-software-engineer/software-engineering-books.md)
+    - [Local Environment](https://github.com/paulund/software-engineer-notebook/blob/main/competent-software-engineer/working-environment/local-environment.md)
+    - [Remote Working](https://github.com/paulund/software-engineer-notebook/blob/main/competent-software-engineer/working-environment/remote-working.md)
+  - [Business Tools](https://github.com/paulund/software-engineer-notebook/blob/main/competent-software-engineer/business-tools.md)
+  - [Software Engineering Books](https://github.com/paulund/software-engineer-notebook/blob/main/competent-software-engineer/software-engineering-books.md)
 - Fundamentals
   - Algorithms
   - APIs
     - Rest APIs
-      - [Designing Rest APIs](fundamentals/apis/rest-apis/designing-rest-apis.md)
+      - [Designing Rest APIs](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/apis/rest-apis/designing-rest-apis.md)
   - Deployments
-    - [A/B Testing](fundamentals/deployments/a-b-testing.md)
-    - [Blue Green](fundamentals/deployments/blue-green.md)
-    - [Canary Deployment](fundamentals/deployments/canary-deployment.md)
-    - [CI/CD](fundamentals/deployments/ci-cd.md)
-    - [Containerisation](fundamentals/deployments/containerisation.md)
-    - [Feature Toggles](fundamentals/deployments/feature-toggles.md)
-    - [Infrastructure as Code](fundamentals/deployments/infrastructure-as-code.md)
-    - [Website Go Live Checklist](fundamentals/deployments/website-go-live-checklist.md)
+    - [A/B Testing](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/deployments/a-b-testing.md)
+    - [Blue Green](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/deployments/blue-green.md)
+    - [Canary Deployment](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/deployments/canary-deployment.md)
+    - [CI/CD](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/deployments/ci-cd.md)
+    - [Containerisation](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/deployments/containerisation.md)
+    - [Feature Toggles](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/deployments/feature-toggles.md)
+    - [Infrastructure as Code](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/deployments/infrastructure-as-code.md)
+    - [Website Go Live Checklist](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/deployments/website-go-live-checklist.md)
   - Design Patterns
-    - [Adapter](fundamentals/design-patterns/adapter.md)
-    - [Bridge](fundamentals/design-patterns/bridge.md)
-    - [Builder](fundamentals/design-patterns/builder.md)
-    - [Simple Factory](fundamentals/design-patterns/simple-factory.md)
-    - [Singleton](fundamentals/design-patterns/singleton.md)
-    - [State](fundamentals/design-patterns/state.md)
-    - [Strategy](fundamentals/design-patterns/strategy.md)
+    - [Adapter](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/design-patterns/adapter.md)
+    - [Bridge](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/design-patterns/bridge.md)
+    - [Builder](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/design-patterns/builder.md)
+    - [Simple Factory](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/design-patterns/simple-factory.md)
+    - [Singleton](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/design-patterns/singleton.md)
+    - [State](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/design-patterns/state.md)
+    - [Strategy](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/design-patterns/strategy.md)
   - Git
     - Branching Strategies
-      - [Gitflow](fundamentals/git/branching-strategies/gitflow.md)
-      - [Trunk Based Development](fundamentals/git/branching-strategies/trunk-based-development.md)
-    - [Commit Messages](fundamentals/git/commit-messages.md)
-    - [Creating Pull Requests](fundamentals/git/creating-pull-requests.md)
-    - [Reviewing Pull Requests](fundamentals/git/reviewing-pull-requests.md)
-    - [Versioning](fundamentals/git/versioning.md)
+      - [Gitflow](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/git/branching-strategies/gitflow.md)
+      - [Trunk Based Development](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/git/branching-strategies/trunk-based-development.md)
+    - [Commit Messages](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/git/commit-messages.md)
+    - [Creating Pull Requests](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/git/creating-pull-requests.md)
+    - [Reviewing Pull Requests](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/git/reviewing-pull-requests.md)
+    - [Versioning](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/git/versioning.md)
   - Good Code
-    - [Actions](fundamentals/good-code/actions.md)
-    - [DDD](fundamentals/good-code/ddd.md)
-    - [DTO](fundamentals/good-code/dto.md)
-    - [Repository](fundamentals/good-code/repository.md)
-    - [Solid](fundamentals/good-code/solid.md)
-    - [Static Analysis](fundamentals/good-code/static-analysis.md)
-    - [Testing](fundamentals/good-code/testing.md)
-    - [Twelve Factor App](fundamentals/good-code/twelve-factor-app.md)
-    - [Value Objects](fundamentals/good-code/value-objects.md)
-    - [YAGNI](fundamentals/good-code/yagni.md)
+    - [Actions](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/actions.md)
+    - [DDD](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/ddd.md)
+    - [DTO](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/dto.md)
+    - [Repository](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/repository.md)
+    - [Solid](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/solid.md)
+    - [Static Analysis](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/static-analysis.md)
+    - [Testing](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/testing.md)
+    - [Twelve Factor App](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/twelve-factor-app.md)
+    - [Value Objects](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/value-objects.md)
+    - [YAGNI](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/good-code/yagni.md)
   - Observability
-    - [Alerting](fundamentals/observability/alerting.md)
-    - [Health Checks](fundamentals/observability/health-checks.md)
-    - [Logging](fundamentals/observability/logging.md)
-    - [Monitoring](fundamentals/observability/monitoring.md)
+    - [Alerting](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/observability/alerting.md)
+    - [Health Checks](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/observability/health-checks.md)
+    - [Logging](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/observability/logging.md)
+    - [Monitoring](https://github.com/paulund/software-engineer-notebook/blob/main/fundamentals/observability/monitoring.md)
 - Templates
   - Github
-    - [PR Request Template](templates/github/pr-request-template.md)
+    - [PR Request Template](https://github.com/paulund/software-engineer-notebook/blob/main/templates/github/pr-request-template.md)
