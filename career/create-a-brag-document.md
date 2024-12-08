@@ -1,7 +1,7 @@
 # Create A Brag Document
 
 After reading this article by [Julia Evans](https://jvns.ca/blog/brag-documents/), who makes a case to create my own brag
-document. 
+document.
 
 A brag document is a document where you write down all the things you've accomplished at work. It's a great
 way to keep track of your accomplishments and to remind yourself of all the awesome things you've done.

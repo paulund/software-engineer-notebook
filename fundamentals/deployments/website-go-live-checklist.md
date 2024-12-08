@@ -19,12 +19,12 @@ launch your website.
 ## SEO
 
 - [ ] SEO meta data
-    - [ ] Title
-    - [ ] Description
-    - [ ] Keywords
-    - [ ] Open Graph
-    - [ ] Twitter Card
-    - [ ] Schema.org
+  - [ ] Title
+  - [ ] Description
+  - [ ] Keywords
+  - [ ] Open Graph
+  - [ ] Twitter Card
+  - [ ] Schema.org
 - [ ] Create RSS Feed
 - [ ] Create robots.txt
 - [ ] XML Sitemap
@@ -41,19 +41,19 @@ launch your website.
 ## Performance
 
 - [ ] Check performance
-    - [ ] https://web.dev/explore/learn-core-web-vitals
-    - [ ] https://web.dev/explore/metrics
-    - [ ] https://web.dev/explore/fast
-    - [ ] https://web.dev/explore/reliable
-    - [ ] Check HTTP cache
-    - [ ] Lighthouse score needs to be 100
+  - [ ] <https://web.dev/explore/learn-core-web-vitals>
+  - [ ] <https://web.dev/explore/metrics>
+  - [ ] <https://web.dev/explore/fast>
+  - [ ] <https://web.dev/explore/reliable>
+  - [ ] Check HTTP cache
+  - [ ] Lighthouse score needs to be 100
 - [ ] Check core web vitals
 
 ## Accessibility
 
 - [ ] Ensure website is accessible (e.g., WCAG compliance)
-    - [ ] https://www.w3.org/WAI/standards-guidelines/wcag/
-    - [ ] https://www.w3.org/WAI/standards-guidelines/wcag/checklist/
+  - [ ] <https://www.w3.org/WAI/standards-guidelines/wcag/>
+  - [ ] <https://www.w3.org/WAI/standards-guidelines/wcag/checklist/>
 
 ## Security
 

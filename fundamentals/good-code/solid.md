@@ -16,6 +16,7 @@ The SOLID principles are:
 Let's take a closer look at each of these principles.
 
 ## Single Responsibility Principle (SRP)
+
 The Single Responsibility Principle states that a class should have only one reason to change.
 
 In other words, a class should have only one responsibility or job. This helps to keep your code modular and easy to maintain.
@@ -65,6 +66,7 @@ class UserAccountValidator
 ```
 
 ## Open-Closed Principle (OCP)
+
 The Open-Closed Principle states that a class should be open for extension but closed for modification.
 
 In other words, you should be able to add new functionality to a class without changing its existing code.
@@ -120,6 +122,7 @@ class Circle extends Shape
 Now you can create objects of these classes and call the area() method without modifying the base Shape class.
 
 ## Liskov Substitution Principle (LSP)
+
 The Liskov Substitution Principle states that subtypes must be substitutable for their base types.
 
 In other words, if a class is a subtype of another class, it should be able to be used in the same way as the base class without any issues.
@@ -193,6 +196,7 @@ class Square extends Rectangle
 This way, the Square class is substitutable for the Rectangle class because it does not change the behavior of the `setWidth()` and `setHeight()` methods.
 
 ## Interface Segregation Principle (ISP)
+
 The Interface Segregation Principle states that clients should not be forced to depend on interfaces they do not use.
 
 In other words, a class should have a specific interface that exposes only the methods that are relevant to the class's clients.
@@ -337,6 +341,7 @@ class LineSegment implements Drawable
 This way, each class only implements the interfaces that are relevant to its clients, which follows the Interface Segregation Principle.
 
 ## Dependency Inversion Principle (DIP)
+
 The Dependency Inversion Principle states that high-level modules should not depend on low-level modules. Both should depend on abstractions.
 
 In other words, your code should depend on abstractions rather than concrete implementations.

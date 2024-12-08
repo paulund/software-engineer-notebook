@@ -8,7 +8,7 @@ access to the single object.
 The problem this solves is to ensure that there is only ever one object of this class, why would you want this?
 
 Think of a class that needed to connect to a database, this is the perfect situation for a singleton class. You wouldn't
-want or need there for your application to open up multiple connections to your database. You only ever need one connect 
+want or need there for your application to open up multiple connections to your database. You only ever need one connect
 to the database and all your queries will be made through this single connection.
 
 Having global access to this single object will ensure that a new object (connection) isn't needed to be created and you can

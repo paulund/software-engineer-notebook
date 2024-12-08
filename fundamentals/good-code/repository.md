@@ -134,7 +134,7 @@ Repositories can sometimes obscure the logic by separating queries into another 
 Repositories rely on interfaces for flexibility, but this flexibility is often unnecessary for most applications.
 Custom query builders provide the same reusability without requiring an interface or binding.
 
-### When to Use Custom Query Builders Over Repositories:
+### When to Use Custom Query Builders Over Repositories
 
 Use custom query builders when you want to keep your codebase simple and align with Laravel's conventions.
 Consider repositories if you need to completely decouple the data access layer (e.g., supporting multiple data sources

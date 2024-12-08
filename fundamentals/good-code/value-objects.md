@@ -73,7 +73,7 @@ private string $postcode;
 }
 ```
 
-### Benefits of Using Value Objects:
+### Benefits of Using Value Objects
 
 - Improved Clarity: Represent domain concepts more naturally, making the code easier to understand.
 - Reduced Bugs: Immutability ensures that objects aren't unexpectedly changed, avoiding subtle bugs.

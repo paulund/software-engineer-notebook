@@ -33,6 +33,7 @@ system then make sure that you highlight your experience of upgrading systems. I
 then the hiring manager might think that you don't have the experience to work on legacy systems.
 
 ### CV Formatting
+
 Keep your CV concise. Aim for 1-2 pages, especially if you're early in your career. If you're more experienced then you
 can go up to 3 pages.
 
@@ -58,6 +59,7 @@ This is a short paragraph that summarises your experience and skills. It should 
 applying for. You should highlight your most relevant skills and experience for the role.
 
 #### Skills
+
 You can list your skills in a table or as a list. If you list your skills in a table
 then you can have a column for the skill and a column for the level of experience. If you list your skills as a list
 then you can have a bullet point for the skill and then a bullet point for the level of experience.
@@ -99,19 +101,24 @@ it from.
 This could be awards that you've won or any other recognition that you've received.
 
 #### Github Profile
+
 If you do any open source work or can share any of your work then you should include a link to your Github profile.
 
 #### Hobbies
+
 If you have any hobbies that show you are disciplined or have a strong work ethic then you should include them. For
 example, if you run marathons then you should include that. If you volunteer for a charity then you should include that.
 Employers like to see that you have a strong work ethic.
 
 #### Professional Memberships
+
 If you're a member of any professional bodies then you should include them.
 
 #### Other Languages
+
 Do some research on the company you're applying for, if they have international customers or team members and if you speak
 any other languages then you should include them.
 
 #### References
+
 You don't need to include references on your CV. You can just say that references are available on request.

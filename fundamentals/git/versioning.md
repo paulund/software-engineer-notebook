@@ -7,6 +7,7 @@ When working on a project it's important to define how you are going to version 
 *SemVer* is a versioning system that is used to communicate upgrades with your applications.
 
 It works with 3 categories
+
 - Major - v1.0.0
 - Minor - v1.1.0
 - Patches - v1.1.1
